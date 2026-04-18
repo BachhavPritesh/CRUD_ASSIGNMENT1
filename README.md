@@ -113,3 +113,7 @@ MONGODB_URI=your_mongodb_connection_string
 
 - **Start Command:** `node src/app.js`
 - **Environment:** `MONGODB_URI` (your MongoDB Atlas connection string)
+
+## POSTMAN (Documatation)
+
+- **URL:** `https://documenter.getpostman.com/view/50839202/2sBXqDsiFq`
